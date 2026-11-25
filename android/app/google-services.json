@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "86564364946",
+    "project_id": "abdo-49998",
+    "storage_bucket": "abdo-49998.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86564364946:android:5c5a26d6040d4d4823fc4b",
+        "android_client_info": {
+          "package_name": "com.example.tourism_guide_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUVP2Ikxc0TN1OsCMzHh508Esx8UzRzVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86564364946:android:29155b75edcc669623fc4b",
+        "android_client_info": {
+          "package_name": "nti.edu.eg.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUVP2Ikxc0TN1OsCMzHh508Esx8UzRzVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
